@@ -1,6 +1,5 @@
 # !/usr/bin/python3
 # Calculator Program
-# Programmer : PMH
 # Date       : 2/4/2021
 
 first_num = float(input("Enter 1st number: "))
