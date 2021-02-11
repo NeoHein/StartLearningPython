@@ -1,6 +1,5 @@
 # !/usr/bin/python3
-# Mini Mart Store Program
-# Programmer : PMH
+# Mini Program
 # Version : 0.0.1
 # Date : 7/2/2021
 
