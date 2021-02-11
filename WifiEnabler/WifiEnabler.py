@@ -5,7 +5,7 @@ import os
 os.system("cls")
 print("\n\n\n")
 print("Wifi Hotspot Enabler")
-print("(C) 2021 Cyber Learner Xifa Group. All right reserved.")
+print("(C) 2021 Cyber Learner. All right reserved.")
 print()
 ssid = "MyNet007"
 key = "myhotpass"
