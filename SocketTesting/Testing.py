@@ -7,9 +7,9 @@ try:
     for port_add in range(0, 80):
 #        Host_name = socket.gethostname()
 #        print(Host_name)
-        result = socket_obj.connect_ex(('192.168.43.192', port_add))
+        result = socket_obj.connect_ex(('IP', port_add))
         if result == 0:
-            print("The IP Address", "192.168.43.192", "is exits at port:", port_add)
+            print("The IP Address", "IP", "is exits at port:", port_add)
 #        socket_obj.close()
         else:
             print("The IP Address is not Active!")
