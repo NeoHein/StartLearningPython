@@ -1,0 +1,2 @@
+<h2>Type conversion</h2><p>There are several built-in functions that let you convert one data type to another. These functions return a new object representing the converted value. <code>int(x)</code> converts <code>x</code> to an integer. <code>float(x)</code> converts <code>x</code> to a floating-point number. <code>str(x)</code> converts object <code>x</code> to a string representation.</p><p>Convert <code>float_number</code> to integer.</p><div class="hint">Use int() function.</div>
+

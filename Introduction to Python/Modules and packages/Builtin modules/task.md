@@ -1,0 +1,2 @@
+<h2>Built-in modules</h2><p>Python comes with a <a href="https://docs.python.org/3/library/" rel="noopener noreferrer nofollow">library of standard modules</a>. Remember that you can use &amp;shortcut:CodeCompletion; after a dot (.) to explore available methods of a module.</p><p>Print the current date using an imported built-in module datetime.</p><div class="hint">Use datetime.datetime.today() function.</div>
+

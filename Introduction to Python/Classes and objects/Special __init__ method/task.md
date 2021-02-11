@@ -1,0 +1,2 @@
+<h2>Special __init__ method</h2><p><code>__init__</code> function is used to initialize the objects it creates. <code>__init__</code> is short for "initialize". <code>__init__()</code> always takes at least one argument, self, which refers to the object being created. <code>__init__()</code> function sets up each object the class creates.</p><p>Add parameters to the <code>Car</code> class so we can create it with a specific color.</p><div class="hint">Add two parameters -- self and color.</div>
+

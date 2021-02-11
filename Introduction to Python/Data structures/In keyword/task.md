@@ -1,0 +1,2 @@
+<h2>In keyword</h2><p>The <code>in</code> keyword is used to check if a list or a dictionary contains a specific item. You can apply <code>in</code> to lists or dictionaries the same way as you did with strings.</p><p>Check if <code>grocery_dict</code> keys contain <code>"fish"</code> .<br>
+Use in keyword.</p>

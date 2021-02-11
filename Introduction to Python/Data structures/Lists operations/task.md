@@ -1,0 +1,2 @@
+<h2>List operations</h2><p>You can add new items at the end of the list, by using the <code>append()</code> method and concatenation. Unlike strings, lists are a mutable type, i.e. it is possible to change their content using <code>lst[index] = new_item</code></p><p>Replace <code>"dino"</code> with <code>"dinosaur"</code> in the <code>animals</code> list.</p><div class="hint">Use indexing operation and assignment.</div>
+

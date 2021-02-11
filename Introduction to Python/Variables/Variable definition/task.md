@@ -1,0 +1,2 @@
+<h2>Variable definition</h2><p>Variables are used to store values so we can refer to them later. A variable is like a label, and you use the ' <code>=</code> ' symbol, known as the assignment operator, to assign a value to a variable. An assignment can be chained, e.g. <code>a = b = 2</code></p><p>Change the value stored in the variable <code>greetings</code>.</p><div class="hint">Type value here.</div>
+

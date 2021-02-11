@@ -1,0 +1,2 @@
+<h2>Dictionaries</h2><p>A dictionary is similar to a list, except that you access its values by looking up a key instead of an index. A key can be any string or a number. Dictionaries are enclosed in curly braces e.g. <code>dct = {'key1' : "value1", 'key2' : "value2"}</code> .</p><p>Print Jane's phone number from <code>phone_book</code> .</p><div class="hint">Use dict indexing e.g. dct[key]</div>
+
