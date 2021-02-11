@@ -1,6 +1,5 @@
 # !/usr/bin/python3
 # Clock Program
-# Programmer : PMH
 # Version : 0.0.1
 # Date : 6/2/2021
 
